@@ -1,0 +1,18 @@
+[
+  {
+    "article": "12345",
+    "warehouse": "Коледино",
+    "qty": 50,
+    "status": "в пути",
+    "send_date": "2026-06-10",
+    "arrival_date": "2026-06-25"
+  },
+  {
+    "article": "11223",
+    "warehouse": "Самара (Новосемейкино)",
+    "qty": 40,
+    "status": "дома",
+    "send_date": null,
+    "arrival_date": null
+  }
+]
